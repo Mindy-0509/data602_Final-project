@@ -78,7 +78,7 @@ Key steps:
 ├── notebook/
 │   └── Data_602_Final_Project.ipynb
 ├── slides/
-│   └── final_presentation.pptx
+│   └── [data602_final_project](https://www.canva.com/design/DAGl-B_QFWY/G12TdZaiooQvXNyayeRqTw/view?utm_content=DAGl-B_QFWY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h69693b65cc)
 └── README.md
  ```
 
