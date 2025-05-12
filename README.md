@@ -1,4 +1,4 @@
-# data602_Final-project
+# Data602_Final-project
 Predicting whether a crime is solved
 # Crime Case Solvability Classification 
 
