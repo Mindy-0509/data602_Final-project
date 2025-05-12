@@ -69,14 +69,7 @@ Key steps:
 
 ## Project Structure
 
-/data602-crime-classification/
-├── data/
-│ └── Crime_Data_from_2020_to_Present.csv
-├── notebook/
-│ └── Data_602_Final_Project.ipynb
-├── slides/
-│ └── final_presentation.pptx
-├── README.md
+``` /data602-crime-classification/ ├── data/ │ └── Crime_Data_from_2020_to_Present.csv ├── notebook/ │ └── Data_602_Final_Project.ipynb ├── slides/ │ └── final_presentation.pptx └── README.md ```
 
 ---
 
