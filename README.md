@@ -1,5 +1,5 @@
 # Data602_Final-project
-Predicting whether a crime is solved
+
 # Crime Case Solvability Classification 
 
 This project is my final submission for the **UMBC DATA602 (Introduction to Machine Learning)** course.  
