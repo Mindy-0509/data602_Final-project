@@ -19,6 +19,9 @@ can we predict whether a crime case will be solved (i.e., lead to an arrest or c
 
 - **Source**: [Los Angeles Open Data Portal](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)
 - **Size**: Over 1 million crime records (2020–present)
+- **Note**: The raw CSV file exceeds GitHub’s file size limit and is not uploaded to this repository.  
+  However, the file can be downloaded directly from the source link above.
+
 - **Features used**:
   - Date/Time of crime and report
   - Victim age, sex, descent
